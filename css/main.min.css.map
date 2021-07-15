@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,UAAU,AAAC,CACT,KAAK,CAAE,MAAM,CACb,aAAa,CAAE,IAAI,CACnB,YAAY,CAAE,IAAI,CAClB,MAAM,CAAE,MAAM,CACf",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/components/_container.scss",
+        "../sass/_header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
