@@ -44,6 +44,7 @@ header {
 }
 
 .top-contacts__link {
+  display: flex;
   color: $main-text;
   transition: color 250ms $main-effects;
 
