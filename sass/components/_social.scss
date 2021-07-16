@@ -43,11 +43,10 @@
     outline: 1px solid $main-bg-color;
     background-color: $accent-color;
   }
-}
-
-.social-list__link:hover .social-list__icon,
-.social-list__link:focus .social-list__icon {
-  fill: $main-bg-color;
+  &:hover .social-list__icon,
+  &:focus .social-list__icon {
+    fill: $main-bg-color;
+  }
 }
 
 .social-list__item_position:not(:last-child) {
